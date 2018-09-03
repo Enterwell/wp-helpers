@@ -1,0 +1,9 @@
+{
+  "name": "enterwell/wp-helpers",
+  "version": "1.0.0",
+  "autoload": {
+    "psr-0": {
+      "Ew/WpHelpers": "src"
+    }
+  }
+}
