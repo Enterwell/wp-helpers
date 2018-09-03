@@ -1,5 +1,12 @@
 {
   "name": "enterwell/wp-helpers",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Matej Bošnjak",
+      "email": "matej.bosnjak.b@gmail.com"
+    }
+  ],
   "version": "1.0.0",
   "license": "MIT",
   "description": "Helper classes for WordPress custom development.",
