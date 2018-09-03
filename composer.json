@@ -1,6 +1,8 @@
 {
   "name": "enterwell/wp-helpers",
   "version": "1.0.0",
+  "license": "MIT",
+  "description": "Helper classes for WordPress custom development.",
   "autoload": {
     "psr-0": {
       "Ew/WpHelpers": "src"
