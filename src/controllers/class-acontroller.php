@@ -1,10 +1,7 @@
 <?php
 
 //  Enterwell namespace
-namespace Ew\WpHelpers;
-
-defined( 'ABSPATH' ) or die( "Cannot access pages directly." );
-
+namespace Ew\WpHelpers\Controllers;
 /**
  * Abstract class for WP REST Api controllers.
  *

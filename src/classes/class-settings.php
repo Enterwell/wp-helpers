@@ -1,9 +1,6 @@
 <?php
 
-namespace Ew\WpHelpers;
-
-defined( 'ABSPATH' ) or die( "Cannot access pages directly." );
-
+namespace Ew\WpHelpers\Classes;
 /**
  * Class Settings
  *

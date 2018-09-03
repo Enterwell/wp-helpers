@@ -6,7 +6,7 @@
  * Time: 13:49
  */
 
-namespace Ew\WpHelpers;
+namespace Ew\WpHelpers\Controllers;
 
 use \WP_REST_Request;
 

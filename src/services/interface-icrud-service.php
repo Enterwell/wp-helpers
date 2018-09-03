@@ -6,7 +6,7 @@
  * Time: 15:22
  */
 
-namespace Ew\WpHelpers;
+namespace Ew\WpHelpers\Services;
 
 /**
  * Interface ICrud_Service

@@ -1,7 +1,7 @@
 <?php
 
 // Enterwell namespace
-namespace Ew\WpHelpers;
+namespace Ew\WpHelpers\Services;
 /**
  * Created by PhpStorm.
  * User: Matej

@@ -5,10 +5,7 @@
  * Date: 21.4.2017.
  * Time: 11:33
  */
-namespace Ew\WpHelpers;
-
-defined('ABSPATH') or die("Cannot access pages directly.");
-
+namespace Ew\WpHelpers\Classes;
 /**
  * Helper class for repository Create and Update actions.
  *

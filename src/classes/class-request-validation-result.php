@@ -1,5 +1,5 @@
 <?php
-namespace Ew\WpHelpers;
+namespace Ew\WpHelpers\Classes;
 
 /**
  * Class Request_Validation_Result
