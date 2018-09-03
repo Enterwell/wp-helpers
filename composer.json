@@ -11,8 +11,8 @@
   "license": "MIT",
   "description": "Helper classes for WordPress custom development.",
   "autoload": {
-    "psr-0": {
-      "Ew/WpHelpers": "src"
+    "psr-4": {
+      "Ew\\WpHelpers\\": "src/"
     }
   }
 }
