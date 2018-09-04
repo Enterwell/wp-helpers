@@ -2,6 +2,8 @@
 
 //  Enterwell namespace
 namespace Ew\WpHelpers\Controllers;
+use Ew\WpHelpers\Exceptions\AEw_Exception;
+
 /**
  * Abstract class for WP REST Api controllers.
  *
